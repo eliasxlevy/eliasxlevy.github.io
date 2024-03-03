@@ -5,9 +5,6 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
         <div>
-            {/* <BsTwitter /> */}
-        </div>
-        <div>
             {/* <BsInstagram /> */}
         </div>
     </div>
